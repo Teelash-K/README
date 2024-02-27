@@ -1,1 +1,1 @@
-# README
+Hello, I am Taiwo Olasehinde, a Data Science/Analytics and Machine Learning enthusiast proficient in Microsoft Excel, SQL, Power BI, Tableau, Python, and SPSS. Passionate about unraveling insights and making predictions to drive informed business decisions. Experienced in diverse projects, refining analytical skills. Explored machine learning for Online Fraud Detection with Python and crafted interactive dashboards using Power BI and Tableau. I am looking to collaborate on any project that involves using data to predict events and make informed decision.
